@@ -2,4 +2,4 @@
 ||t1.daumcdn.net/clix/ad_content^$app=com.kakao.talk
 ||k.kakaocdn.net/dn^$app=com.kakao.talk
 ||img.talk.kakao.co.kr/images/ac^$app=com.kakao.talk
-||more-api.kakao.com$app=com.kakao.talk
+||channel.kakao.com$app=com.kakao.talk
